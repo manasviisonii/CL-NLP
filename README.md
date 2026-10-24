@@ -40,17 +40,13 @@ The assignment covers numerical problems, LSTM operations, gradient flow, and re
 - Precision, recall, F1-score, and accuracy.
 - Evaluation metric selection.
 
-## Assignment PDF
-
-The complete solved assignment is available here:
-
-[View LSTM Assignment Solutions](./CL_NLP_LSTM_Assignment_Final.pdf)
 
 ## Repository Structure
 
 CL-NLP-LSTM-Assignment/
 - README.md
-- CL_NLP_LSTM_Assignment_Final.pdf
+- CL_NLP_LSTM_Assignment.pdf
+- LSTM_Practice_Questions.docx
 
 ## Conclusion
 
